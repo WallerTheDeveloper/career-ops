@@ -48,12 +48,12 @@ Classify every offer into one of these types (or hybrid of 2):
 
 | Archetype | Key signals in JD |
 |-----------|-------------------|
-| AI Platform / LLMOps | "observability", "evals", "pipelines", "monitoring", "reliability" |
-| Agentic / Automation | "agent", "HITL", "orchestration", "workflow", "multi-agent" |
-| Technical AI PM | "PRD", "roadmap", "discovery", "stakeholder", "product manager" |
-| AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
-| AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
-| AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Unity Game Developer | "Unity", "C#", "gameplay", "game systems", "physics", "animation", "prefabs", "ScriptableObjects" |
+| AR/VR Developer | "AR", "VR", "XR", "ARKit", "ARCore", "Meta Quest", "HoloLens", "immersive", "spatial", "mixed reality" |
+| Multiplayer / Netcode Engineer | "multiplayer", "netcode", "authoritative server", "Photon", "Mirror", "latency", "real-time sync" |
+| Graphics / Rendering Engineer | "shaders", "HLSL", "URP", "HDRP", "rendering pipeline", "GPU", "OpenGL", "Vulkan", "optimization" |
+| Mobile Game Developer | "mobile", "iOS", "Android", "optimization", "profiling", "battery", "touch input", "App Store" |
+| Technical Game Designer | "prototyping", "game design", "systems design", "gameplay loop", "level design", "iteration", "GDD" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 
