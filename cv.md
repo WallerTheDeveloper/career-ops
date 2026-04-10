@@ -34,8 +34,10 @@ Software Engineer with 4 years of experience in developing mobile apps using AR/
 
 ## Projects
 
-- **FraudShield** (Open Source) -- Real-time fraud detection framework. Kafka Streams + feature store + model serving. 500+ GitHub stars
-- **LLM Eval Toolkit** (Open Source) -- Evaluation framework for LLM applications. Supports custom metrics, regression testing, CI integration
+- **Unity Multiplayer Game** (Unity Multiplayer Game) -- A fully authoritative multiplayer territory-capture game inspired by Voodoo's Paper.io 2. Built with a custom Rust server and Unity 3D client (URP) featuring real-time state sync, procedural trail rendering, flood-fill territory claiming, and client-side prediction.
+- **Solar System Simulation** (OpenGL simulation made with C++) -- Solar System Simulation is a real-time 3D visualization of our solar system, built from scratch using C++ and OpenGL. This project showcases accurate orbital mechanics, realistic planet rendering, and an interactive camera system that lets you explore space at your own pace.
+- **VR Tower Defense** (Unity VR game with AI tower behaviour) -- Developed a VR tower defense game in Unity using XR Interaction Toolkit, featuring spatial tower placement and real-time enemy pathing. Designed tower AI behaviour using a state machine architecture, enabling clean, extensible combat logic across multiple tower types.
+
 
 ## Education
 
